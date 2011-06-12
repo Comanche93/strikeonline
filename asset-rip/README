@@ -1,0 +1,1 @@
+This directory contains several unix shell scripts I used to rip the tiles and sprites from screenshots of the original game. Dependencies are ImageMagick and OpenImageIO (www.openimageio.org; but the scripts can be easily rewritten to use ImageMagick, too).

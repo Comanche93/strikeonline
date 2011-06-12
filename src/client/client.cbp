@@ -37,8 +37,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Makefile" />
 		<Unit filename="conf.lua" />
+		<Unit filename="lib/LUBE.lua" />
+		<Unit filename="lib/xml.lua" />
 		<Unit filename="main.lua" />
+		<Unit filename="map.lua" />
 		<Extensions>
 			<code_completion />
 			<envvars />
